@@ -1,0 +1,148 @@
+@media (max-width:1400px) {
+
+}
+@media (max-width:1200px) {
+
+}
+@media (max-width:992px) {
+    .top-left h1 {
+        font-size: 25px;
+    }
+    .top-right ul li a {
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .top-right ul {
+        padding-right: 20px;
+    }
+    .about-conten{
+        margin-bottom: 20px;
+    }
+    .about-conten .image {
+        float: inherit;
+        margin: auto;
+    }
+    .about-conten .image img {
+        margin-bottom: 20px;
+    }
+    .about-conten .conten {
+        width: 55%;
+        float: inherit;
+        text-align: center;
+        margin: auto;
+    }
+    .service a {
+        font-size: 40px;
+    }
+    .service h3 {
+        font-size: 20px;
+    }
+    .benner {
+        height: 400px;
+    }
+    .benner h1 {
+        font-size: 30px;
+        padding-top: 168px;
+    }
+    .footer a {
+        padding: 0 10px;
+        font-size: 20px;
+    }
+}
+@media (max-width:700px) {
+    .top-left h1 {
+        font-size: 20px;
+    }
+    .top-left {
+        float: inherit;
+        width: 100%;
+        height: 30px;
+        padding-top: 10px;
+    }
+    .top-right {
+        float: inherit;
+        width: 100%;
+        height: 55px;
+    }
+    .top-right ul {
+        padding-right: 0;
+        text-align: center;
+    }
+    .benner {
+        height: 250px;
+    }
+    .benner h1 {
+        font-size: 20px;
+        padding-top: 70px;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .benner p {
+        width: 60%;
+        margin: auto;
+        font-size: 12px;
+    }
+    .service {
+        height: 150px;
+        float: inherit;
+        width: 75%;
+        padding: 15px;
+        margin: auto;
+    }
+    .service a {
+        display: inline-block;
+        margin: 10px 0;
+        font-size: 30px;
+    }
+    .line {
+        margin-top: 20px;
+    }
+    .about {
+        font-size: 13px;
+    }
+    .ct-1 a {
+        font-size: 15px;
+    }
+    p{
+        font-size: 12px;
+    }
+    .footer a {
+        font-size: 15px;
+    }
+    .contact{
+        padding: 0 15px;
+        height: 100px;
+    }
+    .contact h2 {
+        padding-top: 5px;
+        padding-bottom: 10px;
+    }
+    .ct-1 {
+        height: 65px;
+    }
+}
+@media (max-width:500px) {
+    .top-right ul li a {
+        padding: 0 5px;
+        font-size: 10px;
+        line-height: 45px;
+    }
+    .top-right {
+        height: 45px;
+    }
+    .benner {
+        height: 200px;
+    }
+    .benner h1 {
+        font-size: 18px;
+        padding-top: 45px;
+    }
+    .ct-1 {
+        background-color: #ecf0f1;
+        float: inherit;
+        width: 100%;
+        height: 60px;
+        text-align: center;
+        padding-top: 10px;
+    }
+}
